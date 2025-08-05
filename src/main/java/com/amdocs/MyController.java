@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
     @GetMapping("/")
     public String Home(){
-        return "Welcome to Jenkins Contoller";
+        return "Welcome to Jenkins Contoller hahahaha";
     }
 }
